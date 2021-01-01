@@ -1,2 +1,5 @@
 # basic-java-string-programs
-This contains some java programs that are in a sense related to strings
+
+This Repository contains some Java Programs
+Please do check out the programs and comment for any changes
+Have a nice time
