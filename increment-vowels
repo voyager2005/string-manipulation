@@ -1,5 +1,5 @@
 // this is a program that increments the value of each vowel in a string
-  // This code was contributed by https://github.com/voyager2005
+// This code was contributed by https://github.com/voyager2005
 
 import java.util.Scanner;
 public class program_01
