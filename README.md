@@ -25,7 +25,7 @@ This Repository contains a few string related java programs... If you have downl
 [cocat_ThreeWords]:https://github.com/voyager2005/string-manipulation#concat_threewords
 [count-letter-frequency]:https://github.com/voyager2005/string-manipulation#count-letter-frequency
 [increment-vowels]:https://github.com/voyager2005/string-manipulation#increment-vowels
-[longestWord]:https://github.com/voyager2005/string-manipulation#longestword
+[longestWord]:https://github.com/voyager2005/string-manipulation#longest-word
 [pigalitin]:https://github.com/voyager2005/string-manipulation#piglatin
 [reverse]:https://github.com/voyager2005/string-manipulation#reverse
 
@@ -110,7 +110,7 @@ How are you doing today
 The longest word is : doing and is : 5 characters long.
 ```
 
-## pigaltin:
+## piglatin:
 This program converts a word into [piglatin form]
 
 ## reverse:
