@@ -7,7 +7,7 @@ This Repository contains a few string related java programs... If you have downl
 [g-mail]:mailto:voyager2005.github@gmail.com
 
 ## Key:
-[WHO_IS_THE_INVENTOR_OF_JAVA]
+[WHO IS THE INVENTOR OF JAVA]
 <br />[WordCount]
 <br />[capitalize]
 <br />[change_case]
@@ -21,10 +21,10 @@ This Repository contains a few string related java programs... If you have downl
 [WHO IS THE INVENTOR OF JAVA]:https://github.com/voyager2005/string-manipulation#who-is-the-inventor-of-java
 [WordCount]:https://github.com/voyager2005/string-manipulation#wordcount
 [capitalize]:https://github.com/voyager2005/string-manipulation#capitalize
-[change_case]:https://github.com/voyager2005/string-manipulation#change-case
-[cocat_ThreeWords]:https://github.com/voyager2005/string-manipulation#concat-threewords
+[change_case]:https://github.com/voyager2005/string-manipulation#change_case
+[cocat_ThreeWords]:https://github.com/voyager2005/string-manipulation#concat_threewords
 [count-letter-frequency]:https://github.com/voyager2005/string-manipulation#count-letter-frequency
-[increment-vowels]:https://github.com/voyager2005/string-manipulation#incrementvowels
+[increment-vowels]:https://github.com/voyager2005/string-manipulation#increment-vowels
 [longestWord]:https://github.com/voyager2005/string-manipulation#longestword
 [pigalitin]:https://github.com/voyager2005/string-manipulation#piglatin
 [reverse]:https://github.com/voyager2005/string-manipulation#reverse
